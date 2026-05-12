@@ -1,0 +1,2 @@
+card_id,card_name,set_name,psa_grade,front_scan,back_scan,centering_note,corner_note,edge_note,surface_note
+sample_001,Charizard Base Set,Base Set,9,data/raw/front/sample_001_front.png,data/raw/back/sample_001_back.png,Good centering,Minor whitening,Light edge wear,Small holo scratches
